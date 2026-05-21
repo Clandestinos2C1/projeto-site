@@ -60,8 +60,8 @@ A logo do projeto representa a identidade musical e visual da marca “Tenho Mai
 
 Arquivo utilizado:
 
-```txt
-website/imagens/logo.png
+
+![Logo Tenho mais amigos que discos](../logo/logo.png)
 ```
 
 ---

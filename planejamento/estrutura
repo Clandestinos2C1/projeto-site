@@ -1,1 +1,86 @@
-estrutura do site, das paginas e pa
+# README — Estrutura do Projeto
+
+```txt
+website/
+│
+├── banco/
+│   └── tmaqd.sql
+│
+├── componentes/
+│   ├── categorias.php
+│   ├── discos.php
+│   ├── experiencia.php
+│   ├── footer.php
+│   ├── header.php
+│   ├── hero.php
+│   ├── newsletter.php
+│   └── sobre.php
+│
+├── css/
+│   └── style.css
+│
+├── imagens/
+│   └── logo.png
+│
+├── conexao.php
+├── editar.php
+├── excluir.php
+├── index.php
+├── inserir-disco.php
+└── procurar.php
+```
+
+---
+
+## 📂 Descrição das Pastas
+
+### banco/
+
+Responsável pelo armazenamento do banco de dados do projeto.
+
+* `tmaqd.sql` → Arquivo SQL utilizado para criar as tabelas e estruturar o banco de dados do sistema.
+
+---
+
+### componentes/
+
+Contém os componentes reutilizáveis do site.
+
+* `header.php` → Cabeçalho do site.
+* `hero.php` → Banner principal.
+* `categorias.php` → Exibição das categorias musicais.
+* `discos.php` → Área de exibição dos discos.
+* `experiencia.php` → Sessão sobre a experiência musical.
+* `newsletter.php` → Formulário de newsletter.
+* `sobre.php` → Informações sobre o projeto.
+* `footer.php` → Rodapé do site.
+
+---
+
+### css/
+
+Pasta destinada aos arquivos de estilização.
+
+* `style.css` → Arquivo principal responsável pelo design e responsividade do site.
+
+---
+
+### imagens/
+
+Pasta utilizada para armazenar imagens do projeto.
+
+* `logo.png` → Logo oficial do site.
+
+---
+
+## 📄 Arquivos Principais
+
+* `index.php` → Página inicial do site.
+* `conexao.php` → Arquivo de conexão com o banco de dados.
+* `inserir-disco.php` → Inserção de novos discos.
+* `editar.php` → Edição de registros.
+* `excluir.php` → Exclusão de registros.
+* `procurar.php` → Sistema de busca de discos.
+
+---
+

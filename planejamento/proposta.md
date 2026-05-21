@@ -1,0 +1,1 @@
+nome do projeto, objetivo, sobre o projeto, problemas que ele soluciona e o que vende

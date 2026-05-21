@@ -1,0 +1,1 @@
+na verdade o ronildo pediu pra criar essa pasta mas nao sei ainda o que vamos colocar nela, segundo o ryan a ideia era colocar tipo, se for um restaurante foto do cardapio, do ambiente e tals, vamos ver ai, e esse readme tambem é provisorio, deve ser apagado dps

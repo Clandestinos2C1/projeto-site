@@ -1,0 +1,1 @@
+estilo do site, da logo, icones e interface, paleta de cores, fontes usadas, caracteristicas visuais e dados ficticios.

@@ -1,0 +1,1 @@
+aqui inspiracoes e referencias, pode ser tanto a loja que vende discos da esquina, ou uma empresa gigantesca, tipo apple, google sei la.

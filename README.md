@@ -1,1 +1,0 @@
-nesse arquivo escrever sobre o site, objetivos, tecnologias utilizadas,  de modo bem geral e abrangente

@@ -42,18 +42,6 @@ A experiência de visitar uma loja de discos, observar capas de álbuns, explora
 
 # 🖥️ Referências Tecnológicas e Visuais
 
-## Apple
-
-A empresa **Apple** serviu como referência na busca por:
-
-- Interface limpa;
-- Organização visual;
-- Design minimalista;
-- Experiência intuitiva para o usuário;
-- Harmonia entre estética e funcionalidade.
-
----
-
 ## Google
 
 A empresa **Google** foi utilizada como inspiração principalmente na questão de:

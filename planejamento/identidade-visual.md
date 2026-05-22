@@ -62,7 +62,7 @@ Arquivo utilizado:
 
 
 ![Logo Tenho mais amigos que discos](../logo/logo.png)
-```
+
 
 ---
 

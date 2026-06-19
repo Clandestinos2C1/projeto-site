@@ -14,6 +14,7 @@ website/
 │
 ├── componentes/
 │   ├── categorias.php
+│   ├── disco.php
 │   ├── discos.php
 │   ├── experiencia.php
 │   ├── footer.php

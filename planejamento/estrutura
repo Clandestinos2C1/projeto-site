@@ -3,6 +3,12 @@
 ```txt
 website/
 │
+├── admin/
+│   └── criar.php
+│   └── dashboard.php
+│   └── editar.php
+│   └── excluir.php
+│
 ├── banco/
 │   └── tmaqd.sql
 │
@@ -22,11 +28,17 @@ website/
 ├── imagens/
 │   └── logo.png
 │
+├── includes
+│   └── verificar_admin.php
+│
+├── js/
+│   └── main.js
+│
 ├── conexao.php
-├── editar.php
-├── excluir.php
+├── disco.php
 ├── index.php
-├── inserir-disco.php
+├── login.php
+├── logout.php
 └── procurar.php
 ```
 

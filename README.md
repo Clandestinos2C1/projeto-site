@@ -80,16 +80,43 @@ O desenvolvimento do site foi realizado seguindo o conceito **Mobile First**, pr
 ```txt
 website/
 │
+├── admin/
+│   └── criar.php
+│   └── dashboard.php
+│   └── editar.php
+│   └── excluir.php
+│
 ├── banco/
+│   └── tmaqd.sql
+│
 ├── componentes/
+│   ├── categorias.php
+│   ├── disco.php
+│   ├── discos.php
+│   ├── experiencia.php
+│   ├── footer.php
+│   ├── header.php
+│   ├── hero.php
+│   ├── newsletter.php
+│   └── sobre.php
+│
 ├── css/
+│   └── style.css
+│
 ├── imagens/
+│   └── logo.png
+│
+├── includes
+│   └── verificar_admin.php
+│
+├── js/
+│   └── main.js
 │
 ├── conexao.php
-├── editar.php
-├── excluir.php
+├── disco.php
 ├── index.php
-├── inserir-disco.php
+├── login.php
+├── logout.php
 └── procurar.php
 ```
 
